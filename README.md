@@ -1,2 +1,2 @@
 # html-CSS-JavaScript
-my exercise.
+my exercise to learn githup
